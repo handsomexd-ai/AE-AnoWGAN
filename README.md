@@ -4,6 +4,8 @@ Most of the defects of rotating machinery are caused by faulty bearings, and bea
 `mnist/model.py`, `fanogan/train_wgangp.py` and `fanogan/train_encoder_izif.py` are modified eriklindernoren's `wgan_gp.py` for AE-AnoWGAN.  
 `mvtec_ad/model.py` is modified eriklindernoren's `dcgan.py` for AE-AnoWGAN.
 
+The framework of the paper is shown in the figure
+![framework](./framework.jpg)
 ## Requirements
 
 Python 3.6 or later  
@@ -177,3 +179,10 @@ python plot.py
 ![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/PU%20Dataset/PU%20result1.png)
 ![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/PU%20Dataset/PU%20result2.png)
 ![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/PU%20Dataset/PU%20result3.png)
+
+The comparison of AE-AnoWGAN with other fault diagnosis methods is shown below :
+![comparison](./auc1.png)
+![comparison](./auc2.png)
+
+If you want to replicate a comparison experiment, you need to use anomlib:
+https://github.com/openvinotoolkit/anomalib
