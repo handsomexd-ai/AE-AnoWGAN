@@ -82,8 +82,7 @@ python plot.py
 
 #### Visualization
 
-![ROC AUC](./CRWU Dataset/Anomaly detection.png)
-
+![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/CRWU%20Dataset/Anomaly%20detection.png)
 ### IMS dataset
 
 Please run below in order.
@@ -128,8 +127,8 @@ python plot.py
 ```
 #### Visualization
 
-![ROC](./IMS Dataset/IMS result1.png)
-![AUC](./IMS Dataset/IMS result2.png)
+![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/IMS%20Dataset/IMS%20result1.png)
+![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/IMS%20Dataset/IMS%20result2.png)
 
 ### PU dataset
 
@@ -175,6 +174,6 @@ python plot.py
 ```
 #### Visualization
 
-![ROC](./PU Dataset/PU result1.png)
-![AUC](./PU Dataset/PU result2.png)
-![h](./PU Dataset/PU result3.png)
+![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/PU%20Dataset/PU%20result1.png)
+![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/PU%20Dataset/PU%20result2.png)
+![Visualization](https://raw.githubusercontent.com/handsomexd-ai/AE-AnoWGAN/master/PU%20Dataset/PU%20result3.png)
