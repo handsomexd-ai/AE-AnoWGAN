@@ -4,13 +4,6 @@ import torch.nn as nn
 from torchvision.utils import save_image
 
 
-"""
-These codes are:
-Copyright (c) 2018 Erik Linder-Norén
-Licensed under MIT
-(https://github.com/eriklindernoren/PyTorch-GAN/blob/master/LICENSE)
-"""
-
 
 def train_encoder_izif(opt, generator, discriminator, encoder,
                        dataloader, device, kappa=1.0):

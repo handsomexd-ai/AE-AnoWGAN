@@ -31,12 +31,6 @@ def main(opt):
                            test_dataloader, device)
 
 
-"""
-The code below is:
-Copyright (c) 2018 Erik Linder-Norén
-Licensed under MIT
-(https://github.com/eriklindernoren/PyTorch-GAN/blob/master/LICENSE)
-"""
 
 
 if __name__ == "__main__":

@@ -4,13 +4,6 @@ import torch.autograd as autograd
 from torchvision.utils import save_image
 
 
-"""
-These codes are:
-Copyright (c) 2018 Erik Linder-Norén
-Licensed under MIT
-(https://github.com/eriklindernoren/PyTorch-GAN/blob/master/LICENSE)
-"""
-
 
 def compute_gradient_penalty(D, real_samples, fake_samples, device):
     """Calculates the gradient penalty loss for WGAN GP"""

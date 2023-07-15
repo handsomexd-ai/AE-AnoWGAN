@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29cad0ff-bf32-42b9-935e-1751d5a405ad" name="变更" comment="" />
+    <list default="true" id="29cad0ff-bf32-42b9-935e-1751d5a405ad" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AEanoWgan/train_encoder_izif.py" beforeDir="false" afterPath="$PROJECT_DIR$/AEanoWgan/train_encoder_izif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AEanoWgan/train_wgangp.py" beforeDir="false" afterPath="$PROJECT_DIR$/AEanoWgan/train_wgangp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRWU Dataset/save_compared_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRWU Dataset/save_compared_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRWU Dataset/test_anomaly_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRWU Dataset/test_anomaly_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRWU Dataset/train_encoder_izif.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRWU Dataset/train_encoder_izif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRWU Dataset/train_wgangp.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRWU Dataset/train_wgangp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS Dataset/save_compared_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMS Dataset/save_compared_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS Dataset/test_anomaly_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMS Dataset/test_anomaly_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS Dataset/train_encoder_izif.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMS Dataset/train_encoder_izif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS Dataset/train_wgangp.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMS Dataset/train_wgangp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PU Dataset/save_compared_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/PU Dataset/save_compared_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PU Dataset/test_anomaly_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/PU Dataset/test_anomaly_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PU Dataset/train_encoder_izif.py" beforeDir="false" afterPath="$PROJECT_DIR$/PU Dataset/train_encoder_izif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PU Dataset/train_wgangp.py" beforeDir="false" afterPath="$PROJECT_DIR$/PU Dataset/train_wgangp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvtec_ad/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvtec_ad/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvtec_ad/save_compared_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvtec_ad/save_compared_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvtec_ad/test_anomaly_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvtec_ad/test_anomaly_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvtec_ad/train_encoder_izif.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvtec_ad/train_encoder_izif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvtec_ad/train_wgangp.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvtec_ad/train_wgangp.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +57,9 @@
       <updated>1672747652938</updated>
       <workItem from="1672747654762" duration="12000" />
       <workItem from="1672748973505" duration="15000" />
+      <workItem from="1673682713370" duration="807000" />
+      <workItem from="1679964834161" duration="115000" />
+      <workItem from="1689410659299" duration="963000" />
     </task>
     <servers />
   </component>
